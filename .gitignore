@@ -1,0 +1,7 @@
+*.mp4
+*.ts
+*.png
+
+node_modules
+!index.ts
+package-lock.json
